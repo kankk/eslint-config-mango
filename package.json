@@ -1,0 +1,16 @@
+{
+  "name": "eslint-config-mangokk",
+  "version": "0.0.1",
+  "description": "ESlint config",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kankk/eslint-config-mangokk.git"
+  },
+  "author": "Mangokk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kankk/eslint-config-mangokk/issues"
+  },
+  "homepage": "https://github.com/kankk/eslint-config-mangokk#readme"
+}
